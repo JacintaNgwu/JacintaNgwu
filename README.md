@@ -2,9 +2,6 @@
 
 <h3 align="center">A passionate frontend developer from West Africa, Nigeria.</h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Ngwu Jacint Ebere+..&hearts;++;Full-Stack+software+Developer+West+Africa,+Nigeria,;Software+Developer+Student+@+Microverse,;Active+Learner,;Love+to+learn+new+stuffs,;;OPEN+TO+NEW+JOB+OPPORTUNITIES<"></a>
-</p>
 
 <img align="center" src="https://i0.wp.com/i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif?resize=160,120" alt="Me" title="Me" width="50%" >
 
