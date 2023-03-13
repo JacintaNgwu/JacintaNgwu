@@ -1,6 +1,10 @@
 <h1 align="center" fontsize="40px">Hi there 👋, I'm Ngwu Jacinta Ebere</h1>
+
 <h3 align="center">A passionate frontend developer from West Africa Nigeria</h3>
+
 <img align="center" src="https://i0.wp.com/i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif?resize=160,120" alt="Me" title="Me" width="50%" >
+
+
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
