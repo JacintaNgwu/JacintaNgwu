@@ -1,6 +1,6 @@
 <h1 align="center" fontsize="40px">Hi there 👋, I'm Ngwu Jacinta Ebere</h1>
 
-<h3 align="center">A passionate frontend developer from West Africa, Nigeria.</h3>
+<h3 align="center">A Fullstack Developer from West Africa, Nigeria.</h3>
 
 
 <img align="center" src="https://i0.wp.com/i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif?resize=160,120" alt="Me" title="Me" width="50%" >
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jacinta_ngwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pray_eddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jacintangwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pray-eddy-shimwa-18a6751b6/" height="30" width="40" /></a>
+<a href="https://twitter.com/jacinta_ngwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacinta_ngwu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jacintangwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacintangwu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
