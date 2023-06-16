@@ -1,7 +1,7 @@
 <h1 align="center" fontsize="40px">Hi there 👋, I'm Ngwu Jacinta Ebere</h1>
 
 [![Profile Visitor](https://komarev.com/ghpvc/?username=JacintaNgwu&color=brightgreen)](https://github.com/JacintaNgwu)
-<a href="https://github.com/JacintaNgwu?tab=followers"><img src="https://img.shields.io/github/followers/JacintaNgwu?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/JacintaNgwu?tab=followers&color=brightgreen"><img src="https://img.shields.io/github/followers/JacintaNgwu?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center">A Fullstack Developer from West Africa, Nigeria.</h3>
 
