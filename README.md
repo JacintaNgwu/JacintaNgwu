@@ -43,6 +43,7 @@
  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
  <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" />
 
  <h2>🚀 GitHub Stats</h2>
 
