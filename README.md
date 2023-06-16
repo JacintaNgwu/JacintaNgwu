@@ -9,19 +9,17 @@
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m currently working on **OOP School Library**
-
-- 🌱 I’m currently learning **Ruby**
-
 - 👯 I’m looking to collaborate on any project that requires my skillset
 
 - 🤔 I’m looking for help with having more coding partners
 
 - 💬 Ask me about anything related to fullstack web development
 
-- 📫 How to reach me **jacintangwu9900@gmail.com**
+- 📫 How to reach me [Email](jacintangwu9900@gmail.com)
 
 - 😄 Pronouns **She/Her**
+
+- 🔭 I’m currently open for a new job opportunity, see my [projects](https://github.com/JacintaNgwu/My-Portfolio.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
