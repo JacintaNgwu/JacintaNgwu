@@ -43,3 +43,12 @@
  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
  <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
+
+ <h2>🚀 GitHub Stats</h2>
+
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JacintaNgwu&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacintaNgwu&show_icons=true&theme=nightowl&layout=compact&count_prrivate=true"/>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JacintaNgwu&theme=radical&card_width=799)](https://git.io/streak-stats)
