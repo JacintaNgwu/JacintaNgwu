@@ -52,3 +52,23 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JacintaNgwu&theme=radical&card_width=799)](https://git.io/streak-stats)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>The commencement of a thousand-mile journey commences with the determination to embark on a single, purposeful step.✨</b>
+
+</div>
+<br>
+<!-- <br>
+<br>
+<br> -->
+
+---
+
+<!-- <br> -->
