@@ -1,5 +1,7 @@
 <h1 align="center" fontsize="40px">Hi there 👋, I'm Ngwu Jacinta Ebere</h1>
 
+[![Profile Visitor](https://komarev.com/ghpvc/?username=JacintaNgwu&color=brightgreen)](https://github.com/JacintaNgwu)
+
 <h3 align="center">A Fullstack Developer from West Africa, Nigeria.</h3>
 
 
